@@ -1,0 +1,198 @@
+.gradient {
+	/*colorzilla.com generation (gradient editor)*/
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f73c2e+0,dedede+100&amp;1+0,0+100 */
+background: -moz-linear-gradient(left,  rgba(247,60,46,0.3) 0%, rgba(222,222,222,0) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(247,60,46,1)), color-stop(100%,rgba(222,222,222,0))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  rgba(247,60,46,0.3) 0%,rgba(222,222,222,0) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  rgba(247,60,46,0.3) 0%,rgba(222,222,222,0) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  rgba(247,60,46,0.3) 0%,rgba(222,222,222,0) 100%); /* IE10+ */
+background: linear-gradient(to right,  rgba(247,60,46,0.3) 0%,rgba(222,222,222,0) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f73c2e', endColorstr='#00dedede',GradientType=1 ); /* IE6-9 */
+
+}
+
+.hiddenInitial {
+	style.visibility: "hidden";
+}
+
+
+.paragraphformat {
+
+	margin-left: 5%;
+	margin-top: 32px;
+	margin-right: 30%;
+}
+
+.paragraphlink {
+	font-size: 19px;
+}
+
+.active {
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+div {
+	margin-left: 4px;
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+body 
+{
+	color: #e9e9e9;
+	background-color: transparent;
+	font-family: 'Trebuchet MS'; 
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 24px;
+
+	margin-top:  5%;
+	margin-bottom: 10%;
+}
+
+html {
+	background: url("Background_blue.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	padding-top: 24px;
+}
+
+h1 {
+	color: #e9e9e9;
+	font-family: 'Trebuchet MS'; 
+	font-size: 54px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 24px;
+
+	padding-left: 64px;
+	margin-left: 2%;
+	margin-bottom: 2%;
+	white-space: nowrap;
+
+}
+
+h2 {
+
+	margin-top: 12px;
+	margin-bottom: 12px;
+	white-space: nowrap;
+
+	display:inline;
+}
+
+li {
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+p {
+	color: #e9e9e9;
+	font-family: 'Trebuchet MS'; 
+	font-size: 19px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 32px;
+	text-align: justify;
+
+	margin-top: 12px;
+	margin-left: 12px;
+	margin-right: 25%;
+
+	padding-left: 12px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+
+}
+
+p:hover {}
+
+ul {
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+a {
+	font-family: 'Trebuchet MS'; 
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 24px;
+
+	padding-left: 12px;
+
+	text-decoration: none;
+
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+a:hover {
+	text-shadow: 0.75px -0.75px #f51717, -0.75px 0.75px #2a2afa, 0px 0px 3px #fff;
+	text-decoration: none;
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+.navbar-text {
+	white-space: normal;
+}
+
+.navbar-custom {
+	margin-top: 24px;
+	margin-right: 20%;
+	margin-left: 5%;
+	border-color: transparent;
+	white-space: nowrap;
+}
+
+.dropdown-menu>li>a,
+.dropdown-menu>li>a:hover {
+	text-decoration: none;
+	background-color: transparent;
+	border-color: transparent;
+	color: #e9e9e9;
+}
+
+.dropdown-menu {
+	background-color: #12121d;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:link,
+.navbar-default .navbar-nav>.active>a:visited,
+.navbar-default .navbar-nav>.active>a:active,
+.navbar-default .navbar-nav>li>a, 
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.open>a:focus, 
+.navbar-default .navbar-nav>.open>a:hover,
+.dropdown-menu>li>a  {
+	background-color: transparent;
+	color: #e9e9e9;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.open>a:focus, 
+.navbar-default .navbar-nav>.open>a:hover {
+	text-shadow: 0.75px -0.5px #f51717, -0.75px 0.5px #2a2afa, 0px 0px 3px #fff;
+	background-color: transparent;
+	color: #e9e9e9;	
+}
